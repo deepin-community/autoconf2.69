@@ -1,3 +1,9 @@
+autoconf2.69 (2.69.1-1+deepin1) unstable; urgency=medium
+
+  * change release to unstable
+
+ -- Chang Yang <yangchang@deepin.org>  Mon, 11 Sep 2023 11:57:34 +0800
+
 autoconf2.69 (2.69.1-1+deepin) UNRELEASED; urgency=medium
 
   * update
